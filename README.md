@@ -1,3 +1,5 @@
+![Logo](/logo.png)
+
 # CLIT
 
 Official Repo of Command Line-Interfaced Terminal (CLIT) by DEVELOPER710 !
