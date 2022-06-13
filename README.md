@@ -9,7 +9,7 @@ CLIT is Command Line-Interfaced Terminal !
 CLIT is a light-weight SH-Compatible Command Language Interpreter, just like Bash !
 
 
-To Install CLIT on your Linux Device :-
+### To Install CLIT on your Linux Device :-
 
 First, clone this repo ....
 
@@ -20,6 +20,6 @@ $ `sudo sh install-CLIT.sh`
 (Now, CLIT will be installed to `/usr/bin` Directory)
 
 
-To Test, use  $ `CLIT` !
+### To Test, use  $ `CLIT` !
 
 Thank You !
