@@ -13,9 +13,9 @@ To Install CLIT on your Linux Device :-
 
 First, clone this repo ....
 
-$ ```sudo chmod +x CLIT```
+$ `sudo chmod +x CLIT`
 
-$ ```sudo sh install-CLIT.sh```
+$ `sudo sh install-CLIT.sh`
 
 (Now, CLIT will be installed to `/usr/bin` Directory)
 
