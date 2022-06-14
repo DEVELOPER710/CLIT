@@ -19,7 +19,12 @@ $ `sudo sh install-CLIT.sh`
 
 (Now, CLIT will be installed to `/usr/bin` Directory)
 
+### Or you can also download the DEB Package and install it with :-
 
-### To Test, use  $ `CLIT` !
+Download the [DEB File](https://github.com/DEVELOPER710/CLIT/releases/download/package/CLIT-linux_1.01_all.deb) !
+
+$ `sudo dpkg -i CLIT-linux_1.01_all.deb`
+
+### To Test, run  $ `CLIT` !
 
 Thank You !
